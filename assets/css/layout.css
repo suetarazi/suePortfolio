@@ -1,13 +1,5 @@
 /* layout.css */
 
-#mediaLinks {
-    display: inline-block;
-}
-
-#mediaLinks img {
-    width: 40%
-    height: 200px;
-}
 /* Container */
 
 .container {
